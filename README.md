@@ -52,6 +52,6 @@ Review.md의 나머지 구성: **참고 링크, 개선 제안, 총평** (그리�
 
 ## 7. 리뷰어에게 보낼 안내 (복사용)
 > 안녕하세요, Todo 앱 로컬 버전 리뷰 부탁드려요. 저장소를 fork·clone한 뒤 아래 폴더만 열면 됩니다. 계정이나 `.env`는 필요 없어요.
-> 저장소: https://github.com/Gkerala/quest-c2-code-review
+> 저장소: https://github.com/Gkerala/2-quest-agent-code-review
 > 폴더: `Todo-로컬버전`
 > 실행: `npm install` → `npm start` → http://localhost:3000 (자세한 내용은 그 폴더의 README)
