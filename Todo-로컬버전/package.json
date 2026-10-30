@@ -1,0 +1,14 @@
+{
+  "name": "todo-app-local",
+  "version": "1.0.0",
+  "description": "Todo 앱 로컬(SQLite) 버전 - 코드 리뷰용",
+  "scripts": {
+    "start": "node server.js sqlite"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.3.0"
+  }
+}
